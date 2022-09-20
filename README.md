@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Komila Wiehe
 - 👀 I’m interested in machine learning, networking and cloud architecture
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate any projects 
+- 💞️ I’m looking to collaborate any projects involving machine learning
 - 📫 How to reach me -> gopaul8komila@yahoo.com
 
 <!---
